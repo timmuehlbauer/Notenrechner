@@ -42,5 +42,6 @@ function punktePruefen(punkte) {
         console.log(punkte + "Sind keine gültigen Notenpunkte!")
     }
 } // Filtern der Eingabe
+//Änderung
 
 
